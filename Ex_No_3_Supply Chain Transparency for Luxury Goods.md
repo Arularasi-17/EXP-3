@@ -1,3 +1,7 @@
+# EXP-3 Supply Chain Transparency for Luxury Goods
+# Name - Arularasi U
+# Reg.No - 212223100002
+
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
